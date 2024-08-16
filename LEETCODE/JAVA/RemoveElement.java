@@ -1,4 +1,4 @@
-package DSA.LEETCODE.JAVA;
+
 
 // 27. Remove Element (EASY) - Topic - Array, TwoPointers
 /* Example 1:

@@ -1,4 +1,4 @@
-package DSA.LEETCODE.JAVA;
+
 /* 88. Merge Sorted Array (Easy)  Topics : Arrays, TwoPointers, Sorting
 Example 1:
 Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
