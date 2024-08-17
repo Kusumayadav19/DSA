@@ -1,6 +1,4 @@
 // Naive String Matching Algorithm - A brute force Approach
-package DSA.STRING.JAVA;
-
 import java.util.*;
 
 public class naive{

@@ -1,5 +1,3 @@
-package DSA.STRING.JAVA;
-
 import java.util.Arrays;
 
 public class Horspool {
