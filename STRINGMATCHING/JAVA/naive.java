@@ -1,5 +1,3 @@
-package DSA.STRINGMATCHING.JAVA;
-
 // Naive String Matching Algorithm - A brute force Approach
 import java.util.*;
 

@@ -1,5 +1,3 @@
-package DSA.STRINGMATCHING.JAVA;
-
 import java.util.Arrays;
 
 public class Horspool {
