@@ -1,3 +1,4 @@
+# 42. Trapping Rain Water - Level(Hard) - Topic(Array,Two Pointers,Dynamic Programming,Stack,Monotonic Stack)
 
 def TrappedWater(height):
     n = len(height)
