@@ -1,5 +1,3 @@
-package DSA.BITMANIPULATION.JAVA;
-
 import java.util.*;
 // Print all Subsequence using Bit Manipulation
 
