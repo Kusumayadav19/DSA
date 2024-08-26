@@ -19,7 +19,7 @@ public class CombinationSumII {
     public static void main(String[] args) {
         int[] nums = {10,1,2,7,6,1,5};
         int target = 8;
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
         BackTracking(0, nums, target, result, new ArrayList<>());
         System.out.println(result);
