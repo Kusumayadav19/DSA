@@ -15,8 +15,10 @@ def dijkstra(matrix, vertices, src):
 
     # Build adjacency list from matrix
     adjList = [[] for _ in range(vertices)]
+    print(adjList)
     for edge in matrix:
         adjList[edge[0]].append((edge[1], edge[2]))
+        print(adjList)
 
     # Add source node to the queue
     heapq.heappush(queue, (0, src))
